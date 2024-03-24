@@ -1,0 +1,27 @@
+.odd{
+    background-color: lightpink;
+    /*font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';*/
+}
+
+#kyokasho{
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.third{
+    font-size:24px;
+}
+
+#kotae{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.verdana{
+    font-family: 'Verdana', 'sans-serif';
+}
+
+.dejavu{
+    font-family: 'DejaVu Sans', 'sans-serif';
+}
