@@ -61,3 +61,21 @@ body {
   display: flex;
   flex-flow: column wrap;
 }
+
+.sidebar {
+  padding: 0 1em;
+  flex: 1 0 15em;
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+
+  a {
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+  }
+}
+
+
