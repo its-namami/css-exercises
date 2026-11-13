@@ -27,3 +27,16 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
 }
+
+/* My solution */
+
+.header {
+  font-weight: bold;
+  display: flex;
+  font-size: max;
+  align-items: center;
+  padding: 0 .5em;
+}
+
+.flex { display: flex }
+.flex-row { flex-direction: row }
